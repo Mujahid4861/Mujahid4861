@@ -9,7 +9,7 @@ $ https://github.com/mujahid4861/Fbhackers-maje
 $ cd Fbhackers-maje
 $ python2 Fbhackers-maje .py
 
-If is not working use this
+If is not working use this  ..
 
 $ git clone https://github.com/James404-cyber/Number.git
 $ cd Number
