@@ -14,6 +14,6 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone https://github.com/mujahid4861/MUjahid Fb hackers tools
+git clone https://github.com/mujahid4861/MUjahid/Fbhackers-tools
 
-cd MUjahid Fb hackers tools
+cd MUjahidFbhackers-tools
